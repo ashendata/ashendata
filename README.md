@@ -8,7 +8,7 @@ Hi, I’m **Lanesha (Nesha) Moore** — a data analyst with a Computer Science f
 💡 Whether it’s untangling large datasets or preparing reports for audits, I bring precision, curiosity, and clarity to every step of the process.
 
 🛠️ Current toolkit:
-`SAS` · `R` · `Stata` · `SQL` · `Excel` · `Access` · `Git`
+`R` · `SQL` · `Excel` · `Access` · `Git`
 
 🎯 Passionate about:
 - Simplifying the complex
