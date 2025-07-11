@@ -16,10 +16,7 @@ Hi, I’m **Lanesha (Nesha) Moore** — a data analyst with a Computer Science f
 - Growing at the intersection of finance, analytics, and technology
 
 Let’s connect:  
-📧 [neshamoorebusiness@gmail.com](mailto:neshamoorebusiness@gmail.com)  
-
 🔗 [[linkedin.com/in/lanesha-moore](https://www.linkedin.com/in/lanesha-moore/)]
-
-🌐 [[ashendata.github.io](https://moorelln.github.io/)]
+🌐 [[ashendata.github.io](https://ashendata.github.io/)]
 
 > “Let the data speak — but make sure it’s saying something worth hearing.”
