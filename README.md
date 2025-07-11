@@ -20,6 +20,6 @@ Let’s connect:
 
 🔗 [[linkedin.com/in/lanesha-moore](https://www.linkedin.com/in/lanesha-moore/)]
 
-🌐 [[moorelln.github.io](https://moorelln.github.io/)]
+🌐 [[ashendata.github.io](https://moorelln.github.io/)]
 
 > “Let the data speak — but make sure it’s saying something worth hearing.”
